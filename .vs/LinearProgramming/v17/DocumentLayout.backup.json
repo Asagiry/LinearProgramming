@@ -107,7 +107,8 @@
               "ToolTip": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-08T23:36:26.325Z"
+              "WhenOpened": "2024-12-08T23:36:26.325Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -152,7 +153,7 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAABQCAAAAAAAAAADwvzICAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwDAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-08T21:35:24.978Z",
               "EditorCaption": ""
