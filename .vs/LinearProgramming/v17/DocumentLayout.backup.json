@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|c:\\users\\voima\\source\\repos\\linearprogramming\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|C:\\Users\\voima\\source\\repos\\LinearProgramming\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|C:\\Users\\voima\\source\\repos\\LinearProgramming\\windows\\helpwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|solutionrelative:windows\\helpwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|C:\\Users\\voima\\source\\repos\\LinearProgramming\\windows\\graphicwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|solutionrelative:windows\\graphicwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|C:\\Users\\voima\\source\\repos\\LinearProgramming\\windows\\graphicwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|solutionrelative:windows\\graphicwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|C:\\Users\\voima\\source\\repos\\LinearProgramming\\windows\\basisselection.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|solutionrelative:windows\\basisselection.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|C:\\Users\\voima\\source\\repos\\LinearProgramming\\windows\\basisselection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|solutionrelative:windows\\basisselection.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|C:\\Users\\voima\\source\\repos\\LinearProgramming\\windows\\helpwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|solutionrelative:windows\\helpwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8269D7DF-719A-4E18-A7AD-25613D47F02B}|LinearTools\\LinearTools.csproj|C:\\Users\\voima\\source\\repos\\LinearProgramming\\lineartools\\dataclasses\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8269D7DF-719A-4E18-A7AD-25613D47F02B}|LinearTools\\LinearTools.csproj|solutionrelative:lineartools\\dataclasses\\fraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|C:\\Users\\voima\\source\\repos\\LinearProgramming\\windows\\simplexwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|solutionrelative:windows\\simplexwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|C:\\Users\\voima\\source\\repos\\LinearProgramming\\windows\\simplexwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}|LinearProgramming.csproj|solutionrelative:windows\\simplexwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraphicWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\GraphicWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\GraphicWindow.xaml",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\GraphicWindow.xaml",
+              "RelativeToolTip": "Windows\\GraphicWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T17:45:29.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasisSelection.xaml",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\BasisSelection.xaml",
+              "RelativeDocumentMoniker": "Windows\\BasisSelection.xaml",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\BasisSelection.xaml",
+              "RelativeToolTip": "Windows\\BasisSelection.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T17:42:52.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fraction.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\LinearTools\\DataClasses\\Fraction.cs",
+              "RelativeDocumentMoniker": "LinearTools\\DataClasses\\Fraction.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\LinearTools\\DataClasses\\Fraction.cs",
+              "RelativeToolTip": "LinearTools\\DataClasses\\Fraction.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAUwOMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:39:27.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T23:36:26.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GraphicWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\GraphicWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\GraphicWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\GraphicWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\GraphicWindow.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswIkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:47:15.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SimplexWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\SimplexWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\SimplexWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\SimplexWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\SimplexWindow.xaml.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAUwMcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:38:01.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimplexWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\SimplexWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\SimplexWindow.xaml",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\SimplexWindow.xaml",
+              "RelativeToolTip": "Windows\\SimplexWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T21:36:17.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABQCAAAAAAAAAADwvzICAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:35:24.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasisSelection.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\BasisSelection.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\BasisSelection.xaml.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\BasisSelection.xaml.cs",
+              "RelativeToolTip": "Windows\\BasisSelection.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:35:04.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HelpWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\HelpWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Windows\\HelpWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\HelpWindow.xaml.cs",
+              "RelativeToolTip": "Windows\\HelpWindow.xaml.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwHEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:34:59.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelpWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\HelpWindow.xaml",
+              "RelativeDocumentMoniker": "Windows\\HelpWindow.xaml",
+              "ToolTip": "C:\\Users\\voima\\source\\repos\\LinearProgramming\\Windows\\HelpWindow.xaml",
+              "RelativeToolTip": "Windows\\HelpWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-08T21:29:01.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\voima\source\repos\LinearProgramming\LinearTools\bin\Debug\LinearTools.dll
+C:\Users\voima\source\repos\LinearProgramming\LinearTools\bin\Debug\LinearTools.pdb
+C:\Users\voima\source\repos\LinearProgramming\LinearTools\obj\Debug\LinearTools.csproj.AssemblyReference.cache
+C:\Users\voima\source\repos\LinearProgramming\LinearTools\obj\Debug\LinearTools.csproj.CoreCompileInputs.cache
+C:\Users\voima\source\repos\LinearProgramming\LinearTools\obj\Debug\LinearTools.dll
+C:\Users\voima\source\repos\LinearProgramming\LinearTools\obj\Debug\LinearTools.pdb

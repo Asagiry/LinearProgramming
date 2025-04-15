@@ -1,0 +1,26 @@
+﻿<Window x:Class="LinearProgramming.Windows.BasisSelection"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LinearProgramming.Windows"
+        mc:Ignorable="d"
+        Title="BasisSelection" Height="360" Width="400" WindowStyle="None" ResizeMode="NoResize" AllowsTransparency="True" Background="Transparent" WindowStartupLocation="CenterScreen" MouseLeftButtonDown="Window_MouseLeftButtonDown">
+    <Border CornerRadius="5" BorderBrush="Green" BorderThickness="2" Background="White">
+        <Canvas>
+            <Button Name ="confirm" Content="Принять" Width="100" Height="50" Canvas.Left="75" Canvas.Top="300" Background="#6ef08a" IsEnabled="False" Click="confirm_Click"/>
+            <Button Name ="cancel" Content="Отмена" Width="100" Height="50" Canvas.Right ="75" Canvas.Top ="300" Background="#f77c7c" Click="cancel_Click"/>
+            <Border Height="210" Width="375" Canvas.Left="10" Canvas.Top="85" BorderBrush="Black" BorderThickness="2" CornerRadius="5">
+                <Canvas Name ="InputCanvas"> 
+                    
+                </Canvas>
+            </Border>
+            <Border Height="75" Width="375" Canvas.Left="10" Canvas.Top="5" BorderBrush="Black" BorderThickness="2" CornerRadius="5">
+                <StackPanel>
+                    <Label Content="Выберите базисные переменные" FontSize="20" FontWeight="Bold" Width="340"/>
+                    <Label Name ="help"  Content="Вы можете выбрать X переменных" FontSize="16" HorizontalContentAlignment="Center"/>
+                </StackPanel>
+            </Border>
+        </Canvas>
+    </Border>
+</Window>

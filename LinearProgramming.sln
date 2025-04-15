@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearProgramming", "LinearProgramming.csproj", "{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearTools", "LinearTools\LinearTools.csproj", "{8269D7DF-719A-4E18-A7AD-25613D47F02B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5839411-6661-4C2B-B5D0-A06AAE3B3AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8269D7DF-719A-4E18-A7AD-25613D47F02B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8269D7DF-719A-4E18-A7AD-25613D47F02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8269D7DF-719A-4E18-A7AD-25613D47F02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8269D7DF-719A-4E18-A7AD-25613D47F02B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0AAB41F-29F1-44C9-BDF9-6FC35272C31F}
+	EndGlobalSection
+EndGlobal

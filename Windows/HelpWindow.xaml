@@ -1,0 +1,37 @@
+﻿<Window x:Class="LinearProgramming.Windows.HelpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LinearProgramming.Windows"
+        mc:Ignorable="d"
+        Title="Help" Height="800" Width="800" WindowStyle="None" ResizeMode="NoResize" AllowsTransparency="True" Background="Transparent" WindowStartupLocation="CenterScreen" MouseLeftButtonDown="Window_MouseLeftButtonDown">
+    <Window.Resources>
+        <!-- Стиль для кнопок Next и Previous -->
+        <Style x:Key="NoHoverButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <ContentPresenter 
+                            HorizontalAlignment="Center" 
+                            VerticalAlignment="Center"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Border CornerRadius="5" BorderBrush="Blue" BorderThickness="2" Background="White">
+        <Canvas>
+            <Button Name="QuitButton" Content="✕" FontSize="30" BorderThickness="0" Background="Red" 
+                    Canvas.Right="5" VerticalAlignment="Center" Height="50" Width="80" 
+                    Click="QuitButton_Click" Canvas.Top="5" HorizontalAlignment="Center" />
+            <Label Name="TextLabel" FontSize="16" Canvas.Top="80" Canvas.Left="5"/>
+            <Label Content="ℹ️ Справка " Height="75" Width="300" Canvas.Top="5" Canvas.Left="250" FontSize="35" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+            <Button Name="Next" FontSize="45" Content="▶" Canvas.Top="700" Canvas.Left="700" Style="{StaticResource NoHoverButtonStyle}" Click="Next_Click"/>
+            <Button Name="Previous" FontSize="45" Content="◀" Canvas.Top="700" Canvas.Left="50" Style="{StaticResource NoHoverButtonStyle}" Click="Previous_Click"/>
+            <Label Name ="CurrentPageLabel" FontSize="40" Content="0" Width="50" Height="60" Canvas.Top="700" Canvas.Left="375" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        </Canvas>
+    </Border>
+</Window>
